@@ -1,0 +1,3 @@
+This is a file to redesign the Nanodet to meet the requirement of recognition of Traffic Signs.
+The neural network structure and parameters are going to be adjusted to meet small object detection.
+
